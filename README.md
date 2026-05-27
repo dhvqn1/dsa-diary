@@ -19,6 +19,18 @@ a little repo where i upload my notes, explanations, practice problems, and thin
 ↳ resource  
 https://www.codecademy.com/article/pseudocode-and-flowchart-complete-beginners-guide
 
+<br>
+
+☑ c++ variables, data types & operators
+
+↳ resources  
+https://www.youtube.com/watch?v=Dxu7GKtdbnA&list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&index=2
+
+https://www.w3schools.com/cpp/default.asp
+
+↳ notes  
+[view notes](./cpp-basics/variables-data-types-operators/notes.md)
+
 ---
 
 ╭┈ ✦ currently learning
