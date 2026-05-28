@@ -8,6 +8,6 @@ int main() {
         fact*=i;
     }
     
-    cout << fact;
+    cout << fact << endl;
     return 0;
 }
