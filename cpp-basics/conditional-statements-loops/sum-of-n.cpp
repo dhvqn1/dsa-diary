@@ -12,7 +12,7 @@ int main() {
         sum += i;
     }
 
-    cout << sum;
+    cout << sum << endl;
 
     return 0;
 }

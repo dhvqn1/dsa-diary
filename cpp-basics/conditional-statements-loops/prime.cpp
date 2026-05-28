@@ -18,11 +18,12 @@ int main() {
     }
 
     if(isPrime) {
-        cout << "prime";
+        cout << "prime\n";
     }
 
     else {
-        cout << "non-prime";
+        cout << "non-prime\n";
     }
 
     return 0;
+}

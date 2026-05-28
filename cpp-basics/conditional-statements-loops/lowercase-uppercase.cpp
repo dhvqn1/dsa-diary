@@ -7,15 +7,15 @@ int main() {
     cin >> ch;
 
     if(ch >= 'A' && ch <= 'Z') {
-        cout << "uppercase";
+        cout << "uppercase\n";
     }
 
     else if(ch >= 'a' && ch <= 'z') {
-        cout << "lowercase";
+        cout << "lowercase\n";
     }
 
     else {
-        cout << "not an alphabet";
+        cout << "not an alphabet\n";
     }
 
     return 0;
